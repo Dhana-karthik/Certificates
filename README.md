@@ -8,7 +8,7 @@
 <h2>Hackerrank JAVA golden badge unlocked : </h2>
 
 <br>
-<p>Vsit my hackerrank profile: </p>
+<p>Visit my hackerrank profile: </p>
 <a href="https://www.hackerrank.com/profile/e_dhanakarthik"> e_dhanakarthik</a>
 
 
